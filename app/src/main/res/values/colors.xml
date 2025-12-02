@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary">#1565C0</color>
+    <color name="primary_dark">#0D47A1</color>
+    <color name="primary_light">#42A5F5</color>
+    <color name="accent">#00BCD4</color>
+    
+    <!-- Background Colors -->
+    <color name="background">#F5F7FA</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="surface">#FFFFFF</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#1A1A2E</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="text_hint">#9CA3AF</color>
+    <color name="text_on_primary">#FFFFFF</color>
+    
+    <!-- Status Colors -->
+    <color name="bluetooth_on">#10B981</color>
+    <color name="bluetooth_on_bg">#D1FAE5</color>
+    <color name="bluetooth_off">#EF4444</color>
+    <color name="bluetooth_off_bg">#FEE2E2</color>
+    
+    <!-- Button Colors -->
+    <color name="button_primary">#1565C0</color>
+    <color name="button_danger">#DC2626</color>
+    <color name="button_disabled">#D1D5DB</color>
+    
+    <!-- Timer Colors -->
+    <color name="timer_text">#1565C0</color>
+    <color name="timer_background">#E3F2FD</color>
+    
+    <!-- Divider -->
+    <color name="divider">#E5E7EB</color>
+    
+    <!-- Preset button colors -->
+    <color name="preset_bg">#E3F2FD</color>
+    <color name="preset_text">#1565C0</color>
+</resources>

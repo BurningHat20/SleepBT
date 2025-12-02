@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bluetooth Timer</string>
+    <string name="app_tagline">Auto-off timer for Bluetooth</string>
+    <string name="bluetooth_status">Bluetooth Status</string>
+    <string name="bluetooth_on">ON</string>
+    <string name="bluetooth_off">OFF</string>
+    <string name="set_timer">Set Timer</string>
+    <string name="timer_description">Bluetooth will turn off automatically</string>
+    <string name="minutes">min</string>
+    <string name="start_timer">Start Timer</string>
+    <string name="cancel_timer">Cancel Timer</string>
+    <string name="timer_running">Timer Active</string>
+    <string name="time_remaining">Time Remaining</string>
+    <string name="enter_minutes">Minutes</string>
+    <string name="quick_presets">Quick Select</string>
+    <string name="preset_5">5</string>
+    <string name="preset_15">15</string>
+    <string name="preset_30">30</string>
+    <string name="preset_60">60</string>
+</resources>
